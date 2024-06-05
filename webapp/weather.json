@@ -47,6 +47,22 @@
       "December": {"high": 38, "low": 31}
     }
   },
+  "Mexico" : {
+    "Mexico City": {
+      "January": {"high": 70, "low": 45},
+      "February": {"high": 72, "low": 46},
+      "March": {"high": 75, "low": 48},
+      "April": {"high": 77, "low": 50},
+      "May": {"high": 77, "low": 52},
+      "June": {"high": 75, "low": 54},
+      "July": {"high": 74, "low": 54},
+      "August": {"high": 74, "low": 54},
+      "September": {"high": 74, "low": 53},
+      "October": {"high": 73, "low": 51},
+      "November": {"high": 72, "low": 48},
+      "December": {"high": 70, "low": 46}
+    }
+  },
   "Peru": {
     "Lima": {
       "January": {"high": 75, "low": 66},
